@@ -28,6 +28,7 @@ public:
     void applyLoan()
     {
         int choice;
+        cout<<"\n--------Welcome To Noobs Banking System----------";
         cout<<"\n________Choose Your Loan Option_________ \n";
         cout<<"\n1.Home loan\n";
         cout<<"\n2.Education loan\n";
